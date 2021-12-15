@@ -1,3 +1,5 @@
+# Apresentação Rpg programmer teste 1 
+
 from time import sleep
 print(' Seja bem vindo!!')
 nome = str(input(' Qual é seu nome? '))
@@ -16,3 +18,5 @@ print(' Então valos lá')
 
 indole = str(input(' Só para começar deixe eu imaginar se apartir de hoje você pudesse mudar seu deustino'
                    'você seria cruel ou bom? '))
+                   
+                   
